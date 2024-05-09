@@ -2,12 +2,12 @@ import React from "react";
 //import part
 const App = () => {
   //js part
-  const a = 10;
+  const b = 11;
   return (
     //html css js
     <>
       <h1>Hello World</h1>
-      {a}
+      {b}
     </>
   );
 };
